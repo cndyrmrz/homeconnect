@@ -1,4 +1,4 @@
-# HomeConnect AI — Real Estate Appointment Setter
+ # HomeConnect AI — Real Estate Appointment Setter
 
 An AI-powered SMS appointment setter for real estate agents.
 
